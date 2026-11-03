@@ -1,0 +1,4 @@
+model/
+potato_state.json
+potato_state.json.tmp
+__pycache__/
